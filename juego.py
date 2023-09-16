@@ -21,4 +21,5 @@ while vidas > 0:
                 if vidas > 0:
                     if intento < juego:
                         print(f"El número es mayor. Te quedan {vidas} vidas.")
+                        
                   
